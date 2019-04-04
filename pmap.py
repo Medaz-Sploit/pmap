@@ -5,11 +5,12 @@ import argparse
 from prettytable import PrettyTable
 import itertools
 import time as Ti
-#This a new code of mine
+
+
 start = Ti.time()
 #set arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("-p","--pcap",  help="the pcap file laction you want to read from")
+parser.add_argument("-p","--pcap",  help="the pcap file loction that you want to read from")
 args = parser.parse_args()
 pcap = args.pcap
 
