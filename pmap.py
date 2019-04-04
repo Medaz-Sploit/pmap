@@ -5,7 +5,7 @@ import argparse
 from prettytable import PrettyTable
 import itertools
 import time as Ti
-#This a new code
+#This a new code of mine
 start = Ti.time()
 #set arguments
 parser = argparse.ArgumentParser()
