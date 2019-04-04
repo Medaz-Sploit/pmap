@@ -5,16 +5,8 @@ import argparse
 from prettytable import PrettyTable
 import itertools
 import time as Ti
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-#This a new code of mine
->>>>>>> beta_version
-=======
 
 
->>>>>>> beta_version
 start = Ti.time()
 #set arguments
 parser = argparse.ArgumentParser()
