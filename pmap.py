@@ -6,7 +6,7 @@ from prettytable import PrettyTable
 import itertools
 import time as Ti
 
-
+# i just chnged now 
 start = Ti.time()
 #set arguments
 parser = argparse.ArgumentParser()
